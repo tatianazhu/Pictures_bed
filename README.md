@@ -1,2 +1,2 @@
 # pictures_bed
-md文件存储
+个人笔记图床
